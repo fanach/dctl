@@ -4,7 +4,7 @@ import (
 	"log"
 
 	docker "github.com/fsouza/go-dockerclient"
-	"github.com/zyfdegh/fanach/dctl/entity"
+	"github.com/fanach/dctl/entity"
 )
 
 // DockerStats calls Docker API to get container stats

@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/zyfdegh/fanach/dctl/service"
+	"github.com/fanach/dctl/service"
 )
 
 // GetDockerVersion queries version of docker on host machine

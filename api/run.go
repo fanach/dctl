@@ -7,8 +7,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/zyfdegh/fanach/dctl/entity"
-	"github.com/zyfdegh/fanach/dctl/service"
+	"github.com/fanach/dctl/entity"
+	"github.com/fanach/dctl/service"
 )
 
 // AddSsContainer starts a new ss container

@@ -1,9 +1,9 @@
 package api
 
 import (
-	"github.com/kataras/iris"
-	"github.com/zyfdegh/fanach/dctl/entity"
-	"github.com/zyfdegh/fanach/dctl/service"
+	"gopkg.in/kataras/iris.v6"
+	"github.com/fanach/dctl/entity"
+	"github.com/fanach/dctl/service"
 )
 
 // PauseContainer pauses a docker container

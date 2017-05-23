@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	docker "github.com/fsouza/go-dockerclient"
-	"github.com/zyfdegh/fanach/dctl/entity"
-	"github.com/zyfdegh/fanach/dctl/util"
+	"github.com/fanach/dctl/entity"
+	"github.com/fanach/dctl/util"
 )
 
 const (
